@@ -22,13 +22,13 @@ public class CustomerServiceApplication {
 
     @Bean
     CommandLineRunner start(CustomerRepository customerRepository, RepositoryRestConfiguration restConfiguration){
-        return args -> {
+        return _ -> {
           restConfiguration.exposeIdsFor(Customer.class);
           customerRepository.saveAll(
                   List.of(
-                          Customer.builder().name("Hiba").email("hiba@emsi.ma").build(),
-                          Customer.builder().name("Arij").email("arij@emsi.ma").build(),
-                          Customer.builder().name("aymane").email("aymane@emsi.ma").build()
+                          Customer.builder().name("mohamed").email("mohamed@emsi.ma").build(),
+                          Customer.builder().name("otman").email("otman@emsi.ma").build(),
+                          Customer.builder().name("saidWahit").email("saidWahid@emsi.ma").build()
                   )
           );
         };

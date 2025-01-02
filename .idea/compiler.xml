@@ -20,7 +20,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="billing-service" options="-parameters" />
       <module name="config-service" options="-parameters" />
-      <module name="customer-service" options="-parameters" />
+      <module name="customer-service" options="-parameters --enable-preview" />
       <module name="discovery-service" options="-parameters" />
       <module name="gateway" options="-parameters" />
       <module name="inventory-service" options="-parameters" />
