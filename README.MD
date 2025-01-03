@@ -85,6 +85,14 @@ This project is a **Spring Boot backend** application for managing customers, th
 ## Example Usage
 ![costumer](https://github.com/user-attachments/assets/41e5d3af-3265-4e59-aba6-5564b55231ea)
 
+![costumer_Order](https://github.com/user-attachments/assets/8c5d237e-e660-4b74-b5be-c6171ea9fdf8)
+
+![customer_Order_details](https://github.com/user-attachments/assets/6b97d092-470d-464a-bf41-4c53e7435c0e)
+
+![eureka](https://github.com/user-attachments/assets/442c37c2-bb35-4162-9d89-fb0fb52678cd)
+
+![test](https://github.com/user-attachments/assets/97b82e33-c3eb-458d-b3f7-11b030209149)
+
 ### Fetch All Customers
 
 ```json
