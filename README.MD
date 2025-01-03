@@ -83,6 +83,7 @@ This project is a **Spring Boot backend** application for managing customers, th
 ---
 
 ## Example Usage
+![costumer](https://github.com/user-attachments/assets/41e5d3af-3265-4e59-aba6-5564b55231ea)
 
 ### Fetch All Customers
 
