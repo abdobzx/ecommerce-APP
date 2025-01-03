@@ -1,6 +1,3 @@
-Here is a suggested README file for your Spring Boot backend project:
-
----
 
 # Customer Order Management System
 
